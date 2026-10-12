@@ -32,8 +32,13 @@ The goal is to understand customer churn patterns and identify customer characte
 - **Overall churn rate:** 20.37%
 - **Duplicate records removed:** 4
 
-![Customer Churn Analysis](Bank Customer Churn.png)
+### Customer Churn Analysis
+![Customer Churn Analysis](<Bank Customer Churn.png>)
+### Churn Rate by Country
+![Churn Rate by Country](<Churn Rate by Country.png>)
 
+### Churn Rate by Gender
+![Churn Rate by Gender](<Churn Rate by Gender.png>)
 
 ## Repository Contents
 - `bank_customer_churn_analysis.ipynb` — Python analysis notebook.
